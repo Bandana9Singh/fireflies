@@ -1,7 +1,8 @@
-This is a personal website, for pouring my interests, ideas and other things. Clone or fork this project to give it your personal midas touch. 
+This is a personal website, for pouring my interests, ideas and other things. Clone or fork this project to give it your midas touch. 
 
 ## Stacks used
 Front end framework: React.js
+CSS preprocessor: Sass
 
 ## Available Scripts
 
