@@ -1,0 +1,19 @@
+.navigator {
+    background-color: #1d3557;
+    font-size: 110%;
+    .navigator-item {
+        padding: 0% 4%;
+        font-weight: bold;
+        &:hover {
+            background-color: #3a405a;
+            border-radius: 5rem;
+        }
+        a {
+            color: #e8e8e8;
+            &:hover { 
+                color: #e8e8e8;
+            }
+        }
+    }
+        
+}
