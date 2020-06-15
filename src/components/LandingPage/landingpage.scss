@@ -1,0 +1,23 @@
+@import '../../styles/color'; 
+.introduction {
+    background-color: $home-blue;
+    color: $text-grey-on-dark;
+    font-size: 160%;
+    padding: 5% 0%;
+    .name {
+        font-size: 250%;
+        font-weight: 800;
+        text-shadow: 0.4rem 0.1rem 0.4rem $text-grey-on-light;
+        transition: transform 0.7s;
+        padding: 10px;
+        &:hover {
+            transform: scale(1.1, 1.1);
+            text-shadow: -0.4rem 0.1rem 0.4rem $text-grey-on-light;
+        } 
+    }
+}
+.recent-text {
+    font-size: 250%;
+    font-weight: 800;
+    color: $text-grey-on-light;
+}
