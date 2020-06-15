@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.scss';
-import Navigation from './Navigation/navigation.js';
-import LandingPage from './LandingPage/landingpage.js';
+import Navigation from './components/Navigation/navigation.js';
+import LandingPage from './components/LandingPage/landingpage.js';
 
 function App() {
   return (

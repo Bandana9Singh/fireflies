@@ -1,0 +1,20 @@
+@import '../../styles/color'; 
+.navigator {
+    background-color: $header-bg-blue;
+    font-size: 110%;
+    .navigator-item {
+        padding: 0% 4%;
+        font-weight: 600;
+        &:hover {
+            background-color: $header-hover-blue;
+            border-radius: 5rem;
+            font-weight: 900;
+        }
+        a {
+            color: $text-grey-on-dark;
+            &:hover { 
+                color: $text-grey-on-dark;
+            }
+        }
+    }    
+}
