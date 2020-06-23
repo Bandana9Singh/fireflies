@@ -1,5 +1,6 @@
 import React from 'react';
 import './landingpage.scss';
+import Cards from '../Cards/cards.js';
 
 function LandingPage() {
     return (
@@ -17,8 +18,8 @@ function LandingPage() {
                 </div>
             </div>
             <div>
-                <div><span class="recent-text">Here are some recent stuff I made</span></div>
-
+                <div><span className="recent-text">Here are some recent stuff I made</span></div>
+                <Cards/>
             </div>
         </div>
     );
