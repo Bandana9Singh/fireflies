@@ -3,7 +3,7 @@ This is a personal website, for pouring my interests, ideas and other things. Cl
 ## Stacks used
 Front end framework: `React.js`<br />
 CSS preprocessor: `Sass`<br />
-CSS framework: `react-bootstrap`<br />
+CSS framework: `Bulma`<br />
 
 ## Available Scripts
 
